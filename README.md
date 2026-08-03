@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2,3,30&text=Hi,+I'm+Khushi+Tyagi&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="banner.png" width="100%" alt="Khushi Tyagi Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=800&lines=Building+Software+That+Solves+Problems;Backend+Engineering:AI+Systems" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+software+that+solves+real+problems;Designing+Backend+Systems;Building+AI+Applications;Always+Learning+by+Building" />
 
 </div>
 
