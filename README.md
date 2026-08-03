@@ -1,68 +1,146 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Hi,%20I'm%20Khushi%20Tyagi&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2,3,30&text=Hi,+I'm+Khushi+Tyagi&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;GenAI+%26+Agentic+AI+Engineer;Building+things+that+think" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=800&lines=Building+Software+That+Solves+Problems;Backend+Engineering:AI+Systems" />
 
 </div>
 
-<br>
+---
 
-I build full-stack applications and, increasingly, systems that make decisions on their own — LLM agents that plan, call tools, and act instead of just answering. Right now I'm focused on turning that from "cool demo" into "production-reliable."
+## Hi there 
 
-**Currently:** building **MAILWISE**, An AI-powered email assistant that intelligently classifies, prioritizes, summarizes, and drafts replies to help users manage their inbox efficiently.
-<br>
-**Looking for:** full-stack or GenAI engineering roles where I can ship real agentic products, not just prototypes.
+I'm Khushi, a final-year Computer Science student who enjoys building software that people can depend on.
 
-<br>
+Most of my work has been in backend development, where I like designing APIs, thinking about system architecture, and understanding the trade-offs behind engineering decisions. Along the way, I've explored machine learning and LLM-based systems, but what keeps me interested is building software that's reliable, practical, and easy to improve.
 
-### What I actually build
+---
 
-| | |
-|---|---|
-| 🤖 **Agentic AI** | Multi-step agents with tool use, memory, and planning — not just prompt-and-response wrappers |
-| 🔍 **RAG systems** | Retrieval pipelines tuned for accuracy over demo-flash — chunking strategy, reranking, eval loops |
-| 🖥️ **Full-stack** | Python backends (FastAPI/Django) + React frontends, deployed and actually running somewhere |
-| 🧪 **Eval-driven** | I test my agents against real failure cases, not just "it worked when I tried it once" |
+## Currently Working On
 
-<br>
+- Building **LLM Cost Autopilot**, an intelligent routing system that reduces LLM inference costs by **79%**
+- Exploring backend architecture and machine learning systems
+- Learning more about evaluation pipelines, system design, and scalable software
 
+---
 
-**[🔗MAILWISE](https://github.com/Khushi-Tyagi9/MAILWISE)** —An AI-powered email assistant that classifies, prioritizes, summarizes, and drafts context-aware replies to help users manage their inbox more efficiently.
-<br>
-**Stack:** Python, FastAPI, Streamlit, Groq (Llama 3), FAISS, BM25.
-<br>
-*The interesting part: Designed a modular FastAPI backend where email classification, urgency detection, summarization, and reply generation are independent services, while combining BM25 keyword search with FAISS semantic retrieval to provide more relevant context for AI-generated responses.*
+## Featured Projects
 
+### LLM Cost Autopilot
 
+Built to answer a simple question:
 
-<br>
+> **Can every prompt justify using the most expensive model?**
 
-### Stack
+An intelligent routing system that predicts prompt complexity and selects the most cost-effective LLM while maintaining response quality through selective verification.
+
+**Highlights**
+
+- Reduced inference costs by **79%**
+- Random Forest prompt complexity classifier
+- Multi-tier LLM routing engine
+- Selective LLM verification
+- Response caching
+- FastAPI backend
+- Dockerized deployment
+
+**Tech**
+
+`Python` • `FastAPI` • `Scikit-Learn` • `SQLite` • `Docker`
+
+---
+
+### MailBuddy
+
+An intelligent email assistant that combines retrieval, classification, summarization, and response generation into a modular backend application.
+
+**Highlights**
+
+- Gmail integration
+- Hybrid Retrieval (BM25 + FAISS)
+- Retrieval-Augmented Generation
+- Modular FastAPI architecture
+- Confidence-based response generation
+
+**Tech**
+
+`Python` • `FastAPI` • `Streamlit` • `FAISS` • `Groq`
+
+---
+
+## Engineering Interests
+
+| Area | Focus |
+|------|-------|
+| Backend Engineering | APIs, FastAPI, Async Programming, Databases |
+| Machine Learning Systems | Classification, Evaluation, Intelligent Routing |
+| LLM Applications | Retrieval, Prompt Engineering, Verification |
+| Software Design | Modular Architecture, Testing, Maintainability |
+| Performance | Optimization, Caching, Benchmarking |
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,sql" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs" />
+</p>
+
+### Machine Learning
+
+`Scikit-Learn` • `Transformers` • `Sentence Transformers` • `FAISS` • `ChromaDB`
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux" />
+</p>
+
+---
+
+## What I Value
+
+- Building software that's simple before making it complex
+- Measuring improvements instead of assuming them
+- Writing modular and maintainable code
+- Learning by building and iterating
+
+---
+
+## GitHub Activity
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,react,js,postgres,docker,git,githubactions&theme=light" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Khushi-Tyagi9&show_icons=true&hide_border=true&count_private=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-Tyagi9&hide_border=true" height="165"/>
+
 </div>
 
-<br>
+---
 
-### GitHub activity
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=[Khushi-Tyagi9]&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[Khushi-Tyagi9]&hide_border=true" height="165"/>
-</div>
-
-
-
-<br>
+## Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/[khushityagi09])
-[![Email](https://img.shields.io/badge/-Email_Me-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:[khushityagi1008@gmail.com])
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://[your-portfolio-url])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushityagi09)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khushityagi1008@gmail.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
