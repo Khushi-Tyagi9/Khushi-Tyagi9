@@ -1,14 +1,8 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Khushi Tyagi Banner"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+software+that+solves+real+problems;Designing+Backend+Systems;Building+AI+Applications;Always+Learning+by+Building" />
+<img src="banner.svg" width="100%" />
 
 </div>
-
----
 
 ## Hi there 
 
